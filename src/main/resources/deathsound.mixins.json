@@ -5,6 +5,7 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "deathsound.refmap.json",
   "mixins": [
+    "EntityMixin"
   ],
   "client": [
   ],
