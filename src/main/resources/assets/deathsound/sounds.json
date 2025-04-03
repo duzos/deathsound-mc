@@ -1,0 +1,9 @@
+{
+  "rezero": {
+    "category": "players",
+    "subtitle": "deathsound.subtitle.rezero",
+    "sounds": [
+      "deathsound:rezero"
+    ]
+  }
+}
